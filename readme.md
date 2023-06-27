@@ -1,0 +1,2 @@
+# Aulas de Estrutura de Dados
+Este repositório contém as aulas de Estrutura de Dados ministradas por Professor Alan S. Floriano durante o curso Ciências da Computação, 2 Ano, 1 Semestre. Cada aula possui seu próprio diretório e material correspondente.
