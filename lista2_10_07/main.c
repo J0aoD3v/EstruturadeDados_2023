@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include "linked_list.h"
+#include "lista2.h"
 
 int main() {
     Node* lista = NULL;

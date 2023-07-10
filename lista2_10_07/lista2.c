@@ -1,6 +1,6 @@
+#include "lista2.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include "linked_list.h"
 
 // Função para criar um novo nó
 Node* createNode(int data) {
