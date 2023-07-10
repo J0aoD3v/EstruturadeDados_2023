@@ -1,3 +1,4 @@
+#include <stddef.h>
 #ifndef LISTA2_H
 #define LISTA2_H
 
